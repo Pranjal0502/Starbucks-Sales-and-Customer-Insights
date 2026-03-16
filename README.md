@@ -12,3 +12,18 @@ Tools & Technologies
 -Power Query – Data Transformation
 
 -DAX – KPI Calculations and Measures
+
+Total records analyzed: 100,000+ orders
+
+Key KPIs
+
+-Total Revenue: 1.48M
+
+-Total Customers: 15K
+
+-Total Orders: 100K
+
+-Average Order Value: 14.87
+Average Order Value: 14.87
+
+Orders per Customer
