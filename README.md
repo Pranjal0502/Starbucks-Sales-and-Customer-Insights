@@ -5,10 +5,10 @@ The goal of the project is to transform raw sales data into actionable business 
 
 Tools & Technologies
 
-Python (Pandas, NumPy) – Data Cleaning & Preprocessing
+-Python (Pandas, NumPy) – Data Cleaning & Preprocessing
 
-Power BI – Data Visualization & Dashboard Development
+-Power BI – Data Visualization & Dashboard Development
 
-Power Query – Data Transformation
+-Power Query – Data Transformation
 
-DAX – KPI Calculations and Measures
+-DAX – KPI Calculations and Measures
