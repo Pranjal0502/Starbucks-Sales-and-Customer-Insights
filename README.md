@@ -2,3 +2,13 @@ This project analyzes Starbucks sales data to uncover insights about customer be
 The analysis combines Python for data cleaning and preprocessing with Power BI for interactive dashboard visualization.
 
 The goal of the project is to transform raw sales data into actionable business insights using modern data analytics tools.
+
+Tools & Technologies
+
+Python (Pandas, NumPy) – Data Cleaning & Preprocessing
+
+Power BI – Data Visualization & Dashboard Development
+
+Power Query – Data Transformation
+
+DAX – KPI Calculations and Measures
