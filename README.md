@@ -24,6 +24,3 @@ Key KPIs
 -Total Orders: 100K
 
 -Average Order Value: 14.87
-Average Order Value: 14.87
-
-Orders per Customer
